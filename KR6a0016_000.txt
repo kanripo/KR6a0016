@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 尸迦羅越六方禮經
+#+DATE: 2015-08-30 19:28:07.596368
+#+PROPERTY: JUAN 0
